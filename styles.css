@@ -1,7 +1,10 @@
 .title{
   font-family:Happy Monkey;
-  float:left;
+
   font-size: 250%;
+  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2013/01/silhouette-photography.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 #head{
@@ -19,8 +22,12 @@ p{
 li{
   font-size: 150%;
   font-family: Cormorant Upright;
+  text-align: center;
 }
 a{
   text-decoration: none;
   color: red;
+  text-align: center;
+}
+head{
 }
