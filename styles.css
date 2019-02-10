@@ -5,8 +5,8 @@
   background-image: url(https://cdn.bmstores.co.uk/images/hpcProductImage/imgFull/330651-Arthouse-Diamond-Slate-Grey-Wallpaper.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-padding:50px;
-padding-bottom:120px;
+padding:10px;
+box-shadow: 10px 10px white;
 
 }
 
@@ -16,7 +16,7 @@ h3{
   font-family: Sacramento;
 }
 p{
-  font-size:150%;
+  font-size:130%;
   font-family:Cormorant Upright;
 }
 li{
@@ -46,8 +46,9 @@ opacity:0.8;
 }
 #column{
 
-  background-color: pink;
+  background-color: orange;
   border-radius: 50px;
   opacity:0.8;
+
 
 }
