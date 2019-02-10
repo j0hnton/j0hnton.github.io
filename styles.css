@@ -1,0 +1,17 @@
+.title{
+  font-family:Happy Monkey;
+  float:left;
+  font-size: 250%;
+
+}
+#head{
+  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2013/01/silhouette-photography.jpg);
+}
+
+h3{
+  font-size: 250%;
+  font-family: Sacramento;
+}
+p{
+  font-size:180%;
+}
