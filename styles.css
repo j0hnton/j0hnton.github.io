@@ -9,9 +9,18 @@
 }
 
 h3{
-  font-size: 250%;
+  font-size: 300%;
   font-family: Sacramento;
 }
 p{
-  font-size:180%;
+  font-size:150%;
+  font-family:Cormorant Upright;
+}
+li{
+  font-size: 150%;
+  font-family: Cormorant Upright;
+}
+a{
+  text-decoration: none;
+  color: red;
 }
