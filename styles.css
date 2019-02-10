@@ -2,14 +2,14 @@
   font-family:Happy Monkey;
 
   font-size: 250%;
-  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2013/01/silhouette-photography.jpg);
+  background-image: url(https://cdn.bmstores.co.uk/images/hpcProductImage/imgFull/330651-Arthouse-Diamond-Slate-Grey-Wallpaper.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+padding:50px;
+padding-bottom:120px;
 
 }
-#head{
-  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2013/01/silhouette-photography.jpg);
-}
+
 
 h3{
   font-size: 300%;
@@ -22,12 +22,32 @@ p{
 li{
   font-size: 150%;
   font-family: Cormorant Upright;
-  text-align: center;
 }
 a{
   text-decoration: none;
   color: red;
-  text-align: center;
 }
-head{
+body{
+  padding:50px
+}
+#division{
+  background-color: pink;
+border-radius: 100px;
+  padding:40px;
+  opacity: 0.8;
+
+
+}
+#second{
+  background-color: green;
+  padding:20px;
+  border-radius: 100px;
+opacity:0.8;
+}
+#column{
+
+  background-color: pink;
+  border-radius: 50px;
+  opacity:0.8;
+
 }
